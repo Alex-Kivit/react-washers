@@ -1,5 +1,16 @@
+:root {
+  
+  font-family: 'SamsungOne';
+}
+
+img {
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .App {
-  text-align: center;
+  background-color: #eeeeee;
 }
 
 .App-logo {
@@ -35,4 +46,34 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.search {
+  max-width: 250px;
+  font-size: 1.5rem;
+}
+
+.btn-light {
+  background-color: white;
+}
+
+.btn-primary {
+  border-radius: 24px !important;
+  padding: 10px 40px 10px 40px !important;
+  background-color: #1428A0 !important;
+}
+
+.btn-dark {
+  border-radius: 24px !important;
+  padding: 10px 40px 10px 40px !important;
+  
+}
+
+.card-img-top {
+  width: 200px !important;
+}
+
+.energy-class {
+  top: 10%;
+  color:white;
 }
