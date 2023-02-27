@@ -3,7 +3,7 @@
 This is a simple frontend react app with washers shop.
 All data is provided manually in App.js.
 
-## How to start
+## Getting started
 
 In the project directory run:
 ### `npm install`
